@@ -46,6 +46,7 @@ require("lazy").setup({
 	require("plugins.database"),
 	require("plugins.misc"),
 	require("plugins.harpoon"),
+	require("plugins.supermaven"),
 	-- require 'plugins.avante',
 	-- require 'plugins.chatgpt',
 	require("plugins.aerial"),
